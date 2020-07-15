@@ -1,6 +1,2 @@
 Test 1
-<<<<<<< HEAD
 arthur
-=======
-sadasd
->>>>>>> d32f82c89210de218ec722471ab9eb3a814bde90
